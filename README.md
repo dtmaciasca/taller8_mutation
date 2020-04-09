@@ -10,16 +10,16 @@ Presentado por:
 
 | No. mutante | Matado | Sobrevivió | Test Ejecutados |
 |--|:---:|:---:|:---:|
-| 1 | X | | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant1/Test%20Results%20-%20Tests_in_%27org_gnucash_android_test_ui%27.html) |
-| 31 | X | | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant31/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html)|
-| 78 | X | | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant78/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
-| 127 | | X | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant127/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
-| 131 | X | | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant131/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
-| 205 | X | | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant205/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
-| 248 |  | X | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant248/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
-| 278 | X | | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant278/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
-| 355 | X | | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant355/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html)|
-| 414 | X | | [Test](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant414/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
+| 1 - InvalidDate | X | | [InvalidDate](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant1/Test%20Results%20-%20Tests_in_%27org_gnucash_android_test_ui%27.html) |
+| 31 - BuggyGUIListener | X | | [BuggyGUIListener](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant31/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html)|
+| 78 - InvalidFilePath | X | | [InvalidFilePath](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant78/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
+| 127 - LengthyGUICreation | | X | [LengthyGUICreation](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant127/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
+| 131 - NullValueIntentPutExtra| X | | [NullValueIntentPutExtra](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant131/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
+| 205 - DifferentActivityIntentDefinition | X | | [DifferentActivityIntentDefinition](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant205/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
+| 248 - ViewComponentNoteVisible |  | X | [ViewComponentNoteVisible](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant248/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
+| 278 - ClosingNullCursor | X | | [ClosingNullCursor](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant278/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
+| 355 - NullIntent | X | | [NullIntent](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant355/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html)|
+| 414 - InvalidIDFindView | X | | [InvalidIDFindView](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant414/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
 
 ## Monkey
 
