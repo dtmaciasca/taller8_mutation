@@ -6,7 +6,7 @@ Presentado por:
 
 1. [Reportes Pitest](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Reporte_Pitest/reports/pitest/202004061836/index.html)
 
-2. Reporte MDroid
+2. **Reporte MDroid**
 
 | No. mutante | Matado | Sobrevivió | Test Ejecutados |
 |--|:---:|:---:|:---:|
@@ -20,6 +20,8 @@ Presentado por:
 | 278 - ClosingNullCursor | X | | [ClosingNullCursor](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant278/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
 | 355 - NullIntent | X | | [NullIntent](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant355/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html)|
 | 414 - InvalidIDFindView | X | | [InvalidIDFindView](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant414/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
+
+Nota: Debido al dispositivo usado (Nexus 5 API 26) había un test que siempre fallaba. [Ejecución Test original](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/Test%20Results%20%E2%80%94%20Tests%20in%20'org.gnucash.android.test.ui'.pdf)
 
 ## Monkey
 
