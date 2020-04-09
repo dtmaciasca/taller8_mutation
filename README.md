@@ -42,5 +42,5 @@ Nota: Debido al dispositivo usado (Nexus 5 API 26) había un test que siempre fa
 
 Nota: Se decidio correr con 10000 eventos los monkey, ya que con más de estos fallaban en la aplicación original.
 
-3. [Reporte Stryker - RoboBar]()
+3. [Reporte Stryker - RoboBar](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/robobar-example/reports/mutation/html/index.html)
 4. **Bitácora de uso MutAPK**
