@@ -47,7 +47,7 @@ Nota: Se decidio correr con 10000 eventos los monkey, ya que con más de estos f
 
 Se probo la aplicación de Wikipedia para Android, se seleccionaron 5 operadores en MutAPK
 
-![]()
+![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/operadores.png)
 
 Ejecutó el siguiente comando:
 
@@ -56,7 +56,7 @@ java -jar target\\MutAPK-0.0.1.jar .\\app-alpha-debug.apk org.wikipedia mutants\
 ~~~
 
 Ejecución de los mutantes
-![]()
+![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/ejecucion.png)
 
 Test
 
