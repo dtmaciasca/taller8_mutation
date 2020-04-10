@@ -59,7 +59,7 @@ Se probo la aplicación de Wikipedia para Android,
 java -jar target\\MutAPK-0.0.1.jar .\\app-alpha-debug.apk org.wikipedia mutants\\ extra\\ . true 50
 ~~~
 
-**Ejecución:**
+**Ejecución:**<br/>
 ![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/ejecucion.png)
 
 Test
