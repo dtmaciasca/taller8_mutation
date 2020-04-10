@@ -45,17 +45,21 @@ Nota: Se decidio correr con 10000 eventos los monkey, ya que con más de estos f
 3. [Reporte Stryker - RoboBar](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/robobar-example/reports/mutation/html/index.html)
 4. **Bitácora de uso MutAPK**
 
-Se probo la aplicación de Wikipedia para Android, se seleccionaron 5 operadores en MutAPK
+Se probo la aplicación de Wikipedia para Android, 
+
+**Configuración del archivo de operadores, se seleccionaron 5:**
+
+![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/config-operadores.png)
 
 ![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/operadores.png)
 
-Ejecutó el siguiente comando:
+**Comando de ejecución de los mutantes:**
 
 ~~~
 java -jar target\\MutAPK-0.0.1.jar .\\app-alpha-debug.apk org.wikipedia mutants\\ extra\\ . true 50
 ~~~
 
-Ejecución de los mutantes
+**Ejecución:**
 ![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/ejecucion.png)
 
 Test
@@ -69,3 +73,8 @@ Se realizaron pruebas Monkey de 20000 eventos a los mutantes que genero la herra
 | 2 | | |
 
 [Mutantes generados](https://github.com/dtmaciasca/taller8_mutation/tree/master/Punto4/mutants)
+
+**Errores presentados en la generación de los mutantes**
+
+Como se trabajo en Windows, los / tocaba cambiarlos por \\ porque o si no presentaba el siguiente error:
+![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/error.png)
