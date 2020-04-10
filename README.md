@@ -42,5 +42,25 @@ Nota: Debido al dispositivo usado (Nexus 5 API 26) había un test que siempre fa
 
 Nota: Se decidio correr con 10000 eventos los monkey, ya que con más de estos fallaban en la aplicación original.
 
-3. [Reporte Stryker - RoboBar]()
+3. [Reporte Stryker - RoboBar](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/robobar-example/reports/mutation/html/index.html)
 4. **Bitácora de uso MutAPK**
+
+Se probo la aplicación de Wikipedia para Android, se seleccionaron 5 operadores en MutAPK
+
+![]()
+
+Ejecutó el siguiente comando:
+
+~~~
+java -jar target\\MutAPK-0.0.1.jar .\\app-alpha-debug.apk org.wikipedia mutants\\ extra\\ . true 50
+~~~
+
+Ejecución de los mutantes
+![]()
+
+Test
+
+Se realizaron pruebas Monkey de 20000 eventos a los mutantes que genero la herramienta. 
+**Semilla:** 1586599932703
+
+[Mutantes generados]()
