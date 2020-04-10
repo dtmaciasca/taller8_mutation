@@ -69,7 +69,7 @@ java -jar target\\MutAPK-0.0.1.jar .\\app-alpha-debug.apk org.wikipedia mutants\
 |ActivityNotDefined|33|
 |DifferentActivityIntentDefinition|1|
 |InvalidActivityName|0|
-|InvalidKeyIntentPutExtra|0|
+|InvalidKeyIntentPutExtra|1|
 |InvalidLabel|15|
 
 **Errores presentados en la generación de los mutantes**
