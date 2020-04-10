@@ -62,16 +62,6 @@ java -jar target\\MutAPK-0.0.1.jar .\\app-alpha-debug.apk org.wikipedia mutants\
 **Ejecución:**<br/>
 ![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/ejecucion.png)
 
-Test
-
-Se realizaron pruebas Monkey de 20000 eventos a los mutantes que genero la herramienta. 
-**Semilla:** 1586599932703
-
-| No. mutante | Matado | Sobrevivió |
-|--|--|--|
-| 2 | | |
-| 2 | | |
-
 [Mutantes generados](https://github.com/dtmaciasca/taller8_mutation/tree/master/Punto4/mutants)
 
 **Errores presentados en la generación de los mutantes**
