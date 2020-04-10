@@ -8,6 +8,12 @@ Presentado por:
 
 2. **Reporte MDroid**
 
+**Comando de ejecución de los mutantes:**
+
+~~~
+java -jar target/MDroidPlus-1.0.0.jar ./libs4ast/ /Users/dayanaromero/gnucash-androidTaller org.gnucash.android ./tmp/mutants/ . false
+~~~
+
 | No. mutante | Matado | Sobrevivió | Test Ejecutados |
 |--|:---:|:---:|:---:|
 | 1 - InvalidDate | X | | [InvalidDate](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant1/Test%20Results%20-%20Tests_in_%27org_gnucash_android_test_ui%27.html) |
@@ -53,6 +59,10 @@ Se probo la aplicación de Wikipedia para Android,
 
 ![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/operadores.png)
 
+**Configuración de multithread**
+
+Se generaron mutantes en paralelo para disminuir la latencia de este proceso.
+
 **Comando de ejecución de los mutantes:**
 
 ~~~
@@ -68,8 +78,8 @@ java -jar target\\MutAPK-0.0.1.jar .\\app-alpha-debug.apk org.wikipedia mutants\
 |:--:|:--:|
 |ActivityNotDefined|33|
 |DifferentActivityIntentDefinition|1|
-|InvalidActivityName|0|
-|InvalidKeyIntentPutExtra|1|
+|InvalidActivityName|1|
+|InvalidKeyIntentPutExtra|0|
 |InvalidLabel|15|
 
 **Errores presentados en la generación de los mutantes**
