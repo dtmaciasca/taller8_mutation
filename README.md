@@ -66,5 +66,5 @@ java -jar target\\MutAPK-0.0.1.jar .\\app-alpha-debug.apk org.wikipedia mutants\
 
 **Errores presentados en la generación de los mutantes**
 
-Como se trabajo en Windows, los / tocaba cambiarlos por \\ porque o si no presentaba el siguiente error:
+Como se trabajo en Windows, los / tocaba cambiarlos por \\\\ porque o si no presentaba el siguiente error:
 ![](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto4/error.png)
