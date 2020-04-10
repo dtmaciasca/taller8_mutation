@@ -1,0 +1,101 @@
+ThreadPool: 12
+Mutant 1: C:\Users\deisy\OneDrive\Desktop\Andes\Pruebas-automaticas\MutAPK\mutants\\\\org.wikipedia.alpha-mutant1\src\\smali\org\wikipedia\alphaupdater\AlphaUpdateChecker.smali; DifferentActivityIntentDefinition in line { 0 }
+	For mutant 1 component name at line 0 has been change from "" to ""
+Mutant 2: mutants\\\\org.wikipedia.alpha-mutant2\src\\AndroidManifest.xml; InvalidLabel in line { 33 }
+	For mutant 2 activity label at line 33 has been change from "@string/crash_report_activity_title" to "f0c1236c838e4bc2aa317daa8fe11d47"
+Mutant 3: mutants\\\\org.wikipedia.alpha-mutant3\src\\AndroidManifest.xml; ActivityNotDefined in line { 16 }
+	For mutant 3 the lines between 17 and 23 have been deleted.
+Mutant 4: mutants\\\\org.wikipedia.alpha-mutant4\src\\AndroidManifest.xml; InvalidActivityPATH in line { 16 }
+	For mutant 4 activity name at line 16 has been change from "org.wikipedia.main.MainActivity" to "org.wikipedia.man.MainActivity"
+Mutant 5: mutants\\\\org.wikipedia.alpha-mutant5\src\\AndroidManifest.xml; InvalidLabel in line { 34 }
+	For mutant 5 activity label at line 34 has been change from "@string/settings_activity_title" to "b68536f7cf7a48a58e7aeda595239920"
+Mutant 6: mutants\\\\org.wikipedia.alpha-mutant6\src\\AndroidManifest.xml; InvalidLabel in line { 35 }
+	For mutant 6 activity label at line 35 has been change from "@string/developer_settings_activity_title" to "5a1d4f10df5d4c70b6fec8eb92bad305"
+Mutant 7: mutants\\\\org.wikipedia.alpha-mutant7\src\\AndroidManifest.xml; InvalidLabel in line { 36 }
+	For mutant 7 activity label at line 36 has been change from "@string/notification_preferences_title" to "baee87201f3e49638938366ba79abacd"
+Mutant 8: mutants\\\\org.wikipedia.alpha-mutant8\src\\AndroidManifest.xml; InvalidLabel in line { 37 }
+	For mutant 8 activity label at line 37 has been change from "@string/about_activity_title" to "18d1d2162c66447fbc3852ba118c9c14"
+Mutant 9: mutants\\\\org.wikipedia.alpha-mutant9\src\\AndroidManifest.xml; InvalidLabel in line { 38 }
+	For mutant 9 activity label at line 38 has been change from "@string/wikipedia_languages_title" to "7e90992147cb43aeb2ea1415df4fa90a"
+Mutant 10: mutants\\\\org.wikipedia.alpha-mutant10\src\\AndroidManifest.xml; InvalidLabel in line { 39 }
+	For mutant 10 activity label at line 39 has been change from "@string/langlinks_activity_title" to "ad563fb8d18046a78ddf371138c17baf"
+Mutant 11: mutants\\\\org.wikipedia.alpha-mutant11\src\\AndroidManifest.xml; InvalidLabel in line { 40 }
+	For mutant 11 activity label at line 40 has been change from "@string/languages_list_activity_title" to "c35ae7f381a842b898a9dc2326145410"
+Mutant 12: mutants\\\\org.wikipedia.alpha-mutant12\src\\AndroidManifest.xml; InvalidLabel in line { 43 }
+	For mutant 12 activity label at line 43 has been change from "@string/login_activity_title" to "7aa4e8bf92804d1d81481693f5796ac1"
+Mutant 13: mutants\\\\org.wikipedia.alpha-mutant13\src\\AndroidManifest.xml; InvalidLabel in line { 44 }
+	For mutant 13 activity label at line 44 has been change from "@string/create_account_activity_title" to "078ea8a05d874c599c18c5d3cfe12d99"
+Mutant 14: mutants\\\\org.wikipedia.alpha-mutant14\src\\AndroidManifest.xml; InvalidLabel in line { 45 }
+	For mutant 14 activity label at line 45 has been change from "@string/reset_password_title" to "620f7edd22c446cab15631b0a556d978"
+Mutant 15: mutants\\\\org.wikipedia.alpha-mutant15\src\\AndroidManifest.xml; InvalidLabel in line { 74 }
+	For mutant 15 activity label at line 74 has been change from "@string/feed_configure_activity_title" to "fb9bc61d708e4401b939380c57fd741e"
+Mutant 16: mutants\\\\org.wikipedia.alpha-mutant16\src\\AndroidManifest.xml; InvalidLabel in line { 75 }
+	For mutant 16 activity label at line 75 has been change from "@string/view_random_card_title" to "68230064db5a49d6815ce4f45e020606"
+Mutant 17: mutants\\\\org.wikipedia.alpha-mutant17\src\\AndroidManifest.xml; InvalidLabel in line { 76 }
+	For mutant 17 activity label at line 76 has been change from "@string/preference_title_app_theme" to "63a78b7090e64597b3d2da4585024847"
+Mutant 18: mutants\\\\org.wikipedia.alpha-mutant18\src\\AndroidManifest.xml; InvalidLabel in line { 77 }
+	For mutant 18 activity label at line 77 has been change from "@string/notifications_activity_title" to "cbc75b42ade6483e8cdc5423424336c7"
+Mutant 19: mutants\\\\org.wikipedia.alpha-mutant19\src\\AndroidManifest.xml; ActivityNotDefined in line { 23 }
+	For mutant 19 the lines between 24 and 33 have been deleted.
+Mutant 20: mutants\\\\org.wikipedia.alpha-mutant20\src\\AndroidManifest.xml; ActivityNotDefined in line { 33 }
+	For mutant 20 the lines between 34 and 34 have been deleted.
+Mutant 21: mutants\\\\org.wikipedia.alpha-mutant21\src\\AndroidManifest.xml; ActivityNotDefined in line { 34 }
+	For mutant 21 the lines between 35 and 35 have been deleted.
+Mutant 22: mutants\\\\org.wikipedia.alpha-mutant22\src\\AndroidManifest.xml; ActivityNotDefined in line { 35 }
+	For mutant 22 the lines between 36 and 36 have been deleted.
+Mutant 23: mutants\\\\org.wikipedia.alpha-mutant23\src\\AndroidManifest.xml; ActivityNotDefined in line { 36 }
+	For mutant 23 the lines between 37 and 37 have been deleted.
+Mutant 24: mutants\\\\org.wikipedia.alpha-mutant24\src\\AndroidManifest.xml; ActivityNotDefined in line { 37 }
+	For mutant 24 the lines between 38 and 38 have been deleted.
+Mutant 25: mutants\\\\org.wikipedia.alpha-mutant25\src\\AndroidManifest.xml; ActivityNotDefined in line { 38 }
+	For mutant 25 the lines between 39 and 39 have been deleted.
+Mutant 26: mutants\\\\org.wikipedia.alpha-mutant26\src\\AndroidManifest.xml; ActivityNotDefined in line { 39 }
+	For mutant 26 the lines between 40 and 40 have been deleted.
+Mutant 27: mutants\\\\org.wikipedia.alpha-mutant27\src\\AndroidManifest.xml; ActivityNotDefined in line { 40 }
+	For mutant 27 the lines between 41 and 41 have been deleted.
+Mutant 28: mutants\\\\org.wikipedia.alpha-mutant28\src\\AndroidManifest.xml; ActivityNotDefined in line { 41 }
+	For mutant 28 the lines between 42 and 42 have been deleted.
+Mutant 29: mutants\\\\org.wikipedia.alpha-mutant29\src\\AndroidManifest.xml; ActivityNotDefined in line { 42 }
+	For mutant 29 the lines between 43 and 43 have been deleted.
+Mutant 30: mutants\\\\org.wikipedia.alpha-mutant30\src\\AndroidManifest.xml; ActivityNotDefined in line { 43 }
+	For mutant 30 the lines between 44 and 44 have been deleted.
+Mutant 31: mutants\\\\org.wikipedia.alpha-mutant31\src\\AndroidManifest.xml; ActivityNotDefined in line { 44 }
+	For mutant 31 the lines between 45 and 45 have been deleted.
+Mutant 32: mutants\\\\org.wikipedia.alpha-mutant32\src\\AndroidManifest.xml; ActivityNotDefined in line { 45 }
+	For mutant 32 the lines between 46 and 46 have been deleted.
+Mutant 33: mutants\\\\org.wikipedia.alpha-mutant33\src\\AndroidManifest.xml; ActivityNotDefined in line { 46 }
+	For mutant 33 the lines between 47 and 47 have been deleted.
+Mutant 34: mutants\\\\org.wikipedia.alpha-mutant34\src\\AndroidManifest.xml; ActivityNotDefined in line { 47 }
+	For mutant 34 the lines between 48 and 54 have been deleted.
+Mutant 35: mutants\\\\org.wikipedia.alpha-mutant35\src\\AndroidManifest.xml; ActivityNotDefined in line { 54 }
+	For mutant 35 the lines between 55 and 55 have been deleted.
+Mutant 36: mutants\\\\org.wikipedia.alpha-mutant36\src\\AndroidManifest.xml; ActivityNotDefined in line { 55 }
+	For mutant 36 the lines between 56 and 56 have been deleted.
+Mutant 37: mutants\\\\org.wikipedia.alpha-mutant37\src\\AndroidManifest.xml; ActivityNotDefined in line { 56 }
+	For mutant 37 the lines between 57 and 68 have been deleted.
+Mutant 38: mutants\\\\org.wikipedia.alpha-mutant38\src\\AndroidManifest.xml; ActivityNotDefined in line { 68 }
+	For mutant 38 the lines between 69 and 69 have been deleted.
+Mutant 39: mutants\\\\org.wikipedia.alpha-mutant39\src\\AndroidManifest.xml; ActivityNotDefined in line { 69 }
+	For mutant 39 the lines between 70 and 70 have been deleted.
+Mutant 40: mutants\\\\org.wikipedia.alpha-mutant40\src\\AndroidManifest.xml; ActivityNotDefined in line { 70 }
+	For mutant 40 the lines between 71 and 71 have been deleted.
+Mutant 41: mutants\\\\org.wikipedia.alpha-mutant41\src\\AndroidManifest.xml; ActivityNotDefined in line { 71 }
+	For mutant 41 the lines between 72 and 72 have been deleted.
+Mutant 42: mutants\\\\org.wikipedia.alpha-mutant42\src\\AndroidManifest.xml; ActivityNotDefined in line { 72 }
+	For mutant 42 the lines between 73 and 73 have been deleted.
+Mutant 43: mutants\\\\org.wikipedia.alpha-mutant43\src\\AndroidManifest.xml; ActivityNotDefined in line { 73 }
+	For mutant 43 the lines between 74 and 74 have been deleted.
+Mutant 44: mutants\\\\org.wikipedia.alpha-mutant44\src\\AndroidManifest.xml; ActivityNotDefined in line { 74 }
+	For mutant 44 the lines between 75 and 75 have been deleted.
+Mutant 45: mutants\\\\org.wikipedia.alpha-mutant45\src\\AndroidManifest.xml; ActivityNotDefined in line { 75 }
+	For mutant 45 the lines between 76 and 76 have been deleted.
+Mutant 46: mutants\\\\org.wikipedia.alpha-mutant46\src\\AndroidManifest.xml; ActivityNotDefined in line { 76 }
+	For mutant 46 the lines between 77 and 77 have been deleted.
+Mutant 47: mutants\\\\org.wikipedia.alpha-mutant47\src\\AndroidManifest.xml; ActivityNotDefined in line { 77 }
+	For mutant 47 the lines between 78 and 78 have been deleted.
+Mutant 48: mutants\\\\org.wikipedia.alpha-mutant48\src\\AndroidManifest.xml; ActivityNotDefined in line { 78 }
+	For mutant 48 the lines between 79 and 79 have been deleted.
+Mutant 49: mutants\\\\org.wikipedia.alpha-mutant49\src\\AndroidManifest.xml; ActivityNotDefined in line { 79 }
+	For mutant 49 the lines between 80 and 80 have been deleted.
+Mutant 50: mutants\\\\org.wikipedia.alpha-mutant50\src\\AndroidManifest.xml; ActivityNotDefined in line { 80 }
+	For mutant 50 the lines between 81 and 81 have been deleted.
