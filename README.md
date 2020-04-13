@@ -82,6 +82,9 @@ java -jar target\\MutAPK-0.0.1.jar .\\app-alpha-debug.apk org.wikipedia mutants\
 |InvalidKeyIntentPutExtra|0|
 |InvalidLabel|15|
 
+**Resultado:**<br/>
+Todos los mutantes se pueden compilar, ya que para todos los mutantes se genero el apk firmado y sin firmar.
+
 **Errores presentados en la generación de los mutantes**
 
 Como se trabajo en Windows, los / tocaba cambiarlos por \\\\ porque o si no presentaba el siguiente error:
