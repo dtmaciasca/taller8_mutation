@@ -27,7 +27,7 @@ java -jar target/MDroidPlus-1.0.0.jar ./libs4ast/ /Users/dayanaromero/gnucash-an
 | 355 - NullIntent | X | | [NullIntent](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant355/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html)|
 | 414 - InvalidIDFindView | X | | [InvalidIDFindView](https://htmlpreview.github.io/?https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/mutants/org.gnucash.android-mutant414/Test%20Results%20-%20Tests_in_'org_gnucash_android_test_ui'.html) |
 
-Nota: Debido al dispositivo usado (Nexus 5 API 26) había un test que siempre fallaba. [Ejecución Test original](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/Test%20Results%20%E2%80%94%20Tests%20in%20'org.gnucash.android.test.ui'.pdf). La aplicación tenia dos paquetes de test (androidTest y test), el androidTest eran pruebas sobre la UI y los otros eran unitarios. Con el mutante 78 nos fallo un test unitario y no de la UI.
+Nota: Debido al dispositivo usado (Nexus 5 API 26) había un test que siempre fallaba debido al tamaño de la pantalla que no coincidia con la coordenada que estaba buscando. [Ejecución Test original](https://github.com/dtmaciasca/taller8_mutation/blob/master/Punto%202/Test%20Results%20%E2%80%94%20Tests%20in%20'org.gnucash.android.test.ui'.pdf). La aplicación tenia dos paquetes de test (androidTest y test), el androidTest eran pruebas sobre la UI y los otros eran unitarios. Con el mutante 78 nos fallo un test unitario y no de la UI.
 
 ## Monkey
 
